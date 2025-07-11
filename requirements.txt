@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+duckduckgo-search
+requests
+beautifulsoup4
+wikipedia
+opencv-python
+opencv-python-headless
+tk
